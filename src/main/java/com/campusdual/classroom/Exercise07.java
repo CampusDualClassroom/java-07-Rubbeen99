@@ -5,7 +5,6 @@ public class Exercise07 {
 
     public static void main(String[] args) {
         sumFirstNaturalNumbers(3);
-        int i = 0;
         showFirstNaturalNumbers(3);
     }
 
